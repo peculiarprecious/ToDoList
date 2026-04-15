@@ -42,4 +42,5 @@ A clean, object-oriented console application for managing daily tasks. This proj
 * Selection: 1
 
 Enter Description: Buy groceries
-`Task added!`
+
+*Task added!
